@@ -1,3 +1,3 @@
 # Diseño provisional de la PCB
 
-![PCB blueprint](Diseño_PCB/images/pcb_provisional.jpg)
+![PCB blueprint](file:///C:/Users/marco/Desktop/pcb_provisional.jpg)
