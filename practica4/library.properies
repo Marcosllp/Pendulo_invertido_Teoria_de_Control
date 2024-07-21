@@ -1,0 +1,9 @@
+name=PIDControl
+version=1.0.0
+author=Marcos López-Loriente Parga
+maintainer=Marcos López-Loriente Parga <marcos.lopezloriente@rai.usc.es>
+sentence=Libreria que implementa el control de un PID discreto para tres casos diferentes.
+paragraph=Provides clases para PID básico, PID con filtro IIR, y PID con filtro pasa baja.
+category=Control
+url=https://github.com/yourusername/PIDControl
+architectures=esp32
