@@ -5,5 +5,5 @@ maintainer=Marcos López-Loriente Parga <marcos.lopezloriente@rai.usc.es>
 sentence=Libreria que implementa el control de un PID discreto para tres casos diferentes.
 paragraph=Provides clases para PID básico, PID con filtro IIR, y PID con filtro pasa baja.
 category=Control
-url=https://github.com/yourusername/PIDControl
+url=https://github.com/Marcosllp/Pendulo_invertido_Teoria_de_Control.git
 architectures=esp32
